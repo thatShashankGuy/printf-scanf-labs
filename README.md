@@ -1,6 +1,6 @@
 ## Code-Examples
 
-Collection of scripts , modules and micro-apps usually accompanied by a blog post @ _[Prinft/Scanf](https://printf-scanf.pages.dev/)_.
+Collection of scripts , modules and micro-apps usually accompanied by a blog post @ _[Prinft/Scanf](https://blogs.shashankshekhar.in/)_.
 
 ---
 
